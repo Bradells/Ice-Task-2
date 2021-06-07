@@ -1,0 +1,30 @@
+C:\Bradley\Year 2\prog\Task 1.1\Task 1.1\bin\Debug\netcoreapp3.1\Task 1.1.exe
+C:\Bradley\Year 2\prog\Task 1.1\Task 1.1\bin\Debug\netcoreapp3.1\Task 1.1.deps.json
+C:\Bradley\Year 2\prog\Task 1.1\Task 1.1\bin\Debug\netcoreapp3.1\Task 1.1.runtimeconfig.json
+C:\Bradley\Year 2\prog\Task 1.1\Task 1.1\bin\Debug\netcoreapp3.1\Task 1.1.runtimeconfig.dev.json
+C:\Bradley\Year 2\prog\Task 1.1\Task 1.1\bin\Debug\netcoreapp3.1\Task 1.1.dll
+C:\Bradley\Year 2\prog\Task 1.1\Task 1.1\bin\Debug\netcoreapp3.1\Task 1.1.pdb
+C:\Bradley\Year 2\prog\Task 1.1\Task 1.1\obj\Debug\netcoreapp3.1\Task 1.1.csprojAssemblyReference.cache
+C:\Bradley\Year 2\prog\Task 1.1\Task 1.1\obj\Debug\netcoreapp3.1\Task_1._1.Form1.resources
+C:\Bradley\Year 2\prog\Task 1.1\Task 1.1\obj\Debug\netcoreapp3.1\Task 1.1.csproj.GenerateResource.cache
+C:\Bradley\Year 2\prog\Task 1.1\Task 1.1\obj\Debug\netcoreapp3.1\Task 1.1.AssemblyInfoInputs.cache
+C:\Bradley\Year 2\prog\Task 1.1\Task 1.1\obj\Debug\netcoreapp3.1\Task 1.1.AssemblyInfo.cs
+C:\Bradley\Year 2\prog\Task 1.1\Task 1.1\obj\Debug\netcoreapp3.1\Task 1.1.csproj.CoreCompileInputs.cache
+C:\Bradley\Year 2\prog\Task 1.1\Task 1.1\obj\Debug\netcoreapp3.1\Task 1.1.dll
+C:\Bradley\Year 2\prog\Task 1.1\Task 1.1\obj\Debug\netcoreapp3.1\Task 1.1.pdb
+C:\Bradley\Year 2\prog\Task 1.1\Task 1.1\obj\Debug\netcoreapp3.1\Task 1.1.genruntimeconfig.cache
+C:\Bradley\20104602_Bradley_task1\Task 1.1\Task 1.1\obj\Debug\netcoreapp3.1\Task 1.1.csprojAssemblyReference.cache
+C:\Bradley\20104602_Bradley_task1\Task 1.1\Task 1.1\obj\Debug\netcoreapp3.1\Task_1._1.Form1.resources
+C:\Bradley\20104602_Bradley_task1\Task 1.1\Task 1.1\obj\Debug\netcoreapp3.1\Task 1.1.csproj.GenerateResource.cache
+C:\Bradley\20104602_Bradley_task1\Task 1.1\Task 1.1\obj\Debug\netcoreapp3.1\Task 1.1.AssemblyInfoInputs.cache
+C:\Bradley\20104602_Bradley_task1\Task 1.1\Task 1.1\obj\Debug\netcoreapp3.1\Task 1.1.AssemblyInfo.cs
+C:\Bradley\20104602_Bradley_task1\Task 1.1\Task 1.1\obj\Debug\netcoreapp3.1\Task 1.1.csproj.CoreCompileInputs.cache
+C:\Bradley\20104602_Bradley_task1\Task 1.1\Task 1.1\obj\Debug\netcoreapp3.1\Task 1.1.dll
+C:\Bradley\20104602_Bradley_task1\Task 1.1\Task 1.1\obj\Debug\netcoreapp3.1\Task 1.1.pdb
+C:\Bradley\20104602_Bradley_task1\Task 1.1\Task 1.1\bin\Debug\netcoreapp3.1\Task 1.1.exe
+C:\Bradley\20104602_Bradley_task1\Task 1.1\Task 1.1\bin\Debug\netcoreapp3.1\Task 1.1.deps.json
+C:\Bradley\20104602_Bradley_task1\Task 1.1\Task 1.1\bin\Debug\netcoreapp3.1\Task 1.1.runtimeconfig.json
+C:\Bradley\20104602_Bradley_task1\Task 1.1\Task 1.1\bin\Debug\netcoreapp3.1\Task 1.1.runtimeconfig.dev.json
+C:\Bradley\20104602_Bradley_task1\Task 1.1\Task 1.1\bin\Debug\netcoreapp3.1\Task 1.1.dll
+C:\Bradley\20104602_Bradley_task1\Task 1.1\Task 1.1\bin\Debug\netcoreapp3.1\Task 1.1.pdb
+C:\Bradley\20104602_Bradley_task1\Task 1.1\Task 1.1\obj\Debug\netcoreapp3.1\Task 1.1.genruntimeconfig.cache
